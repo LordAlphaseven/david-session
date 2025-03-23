@@ -56,14 +56,14 @@ router.get('/', async (req, res) => {
                let b64data = Buffer.from(data).toString('base64');
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
-               let LUCK_MD_TEXT = `
+               let JINHUYK_MD_TEXT = `
 ┏━━━━━━━━━━━━━━℘
-┃❛♤LUCK_MD♤❜ SESSION IS 
+┃❛♤JINHUYK-MD-V1♤❜ SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━℘
 ༒▬▬▬▬▬▬▬▬▬▬▬▬▬▬༒
-❶ || Creator = 𖥘 ARTHUR SASAKI 𖥘
+❶ || Creator = 𖥘 Chanjinhuyk SASAKI 𖥘
 ༒▬▬▬▬▬▬▬▬▬▬▬▬▬▬༒
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41
 ༒▬▬▬▬▬▬▬▬▬▬▬▬▬▬༒
